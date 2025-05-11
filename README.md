@@ -5,14 +5,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Github;
-- 🌱 I’m currently learning Github then I'll move on to HTML, CSS and Javascript; 
-- 👯 I’m looking to collaborate on creating content;
-- 🤔 I’m looking for help with Programming in Javascript;
-- 💬 Ask me about HTML and CSS;
+- 🔭 I’m currently a student at DCI;
+- 🌱 I’m currently learning Backend (Node, Express & Databases)
+- 💬 Ask me about HTML, CSS and Javascript;
 - 📫 How to reach me: kushtrim.bilali@dci-student.org or kushtro20@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In high schools, together with my friends and the teacher , we were looking for my belt in the sports hall, which i had left at home 😂😂;
+
 
 🏠 [website]
 
